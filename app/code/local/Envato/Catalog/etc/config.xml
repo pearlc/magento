@@ -13,5 +13,12 @@
                 </rewrite>
             </catalog>
         </blocks>
+        <models>
+            <catalog>
+                <rewrite>
+                    <category>Envato_Catalog_Model_Category</category>
+                </rewrite>
+            </catalog>
+        </models>
     </global>
 </config>
